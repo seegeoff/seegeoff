@@ -7,7 +7,7 @@ Father, 8y Special Operations Veteran, and 4y Software Engineer with roots in Ja
 - Embedded Systems & General Maker Stuff 🥧 🤖
 - Redneck science experiments with BBQ and Gardening 
 - Music Theory and Generative Music Composition (Jazz/Classical 🎹)
-- Evolving my Homelab
+- Homelabs
 - FinTech/Quant Analysis
 - Emergent Software Design
 - DEVOPS and Cloud Computing
