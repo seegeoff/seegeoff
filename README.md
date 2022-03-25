@@ -23,4 +23,4 @@ Father, 8y Special Operations Veteran, and 4y Software Engineer with roots in Ja
 📫 How to reach me ...
 - 
 - Teams (8AM-EST-)
-- [Email](mailto://g.seemueller@orbisops.com)
+- [Email](mailto:g.seemueller@orbisops.com)
