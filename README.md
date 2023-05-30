@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Geoff S. (@seegeoff)
 
-Father, 8y Special Operations Veteran, and 4y Software Engineer with roots in Java, Typescript, Go, and Python.
+Father, 8y Special Operations Veteran, and Software Engineer with roots in Java, Typescript, Go, and Python.
 
 👀 I’m interested in:
 -
