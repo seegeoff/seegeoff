@@ -14,6 +14,7 @@ Father, 8y Special Operations Veteran, and Software Engineer with roots in Java,
 
 🌱 I’m currently learning ...
 - React Native
+- Cloudflare Workers
 
 
 📫 How to reach me ...
