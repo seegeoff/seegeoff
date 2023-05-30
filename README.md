@@ -4,23 +4,19 @@ Father, 8y Special Operations Veteran, and 4y Software Engineer with roots in Ja
 
 👀 I’m interested in:
 -
-- Embedded Systems & General Maker Stuff 🥧 🤖
-- Redneck science experiments with BBQ and Gardening 
-- Music Theory and Generative Music Composition (Jazz/Classical 🎹)
-- Homelabs
-- FinTech/Quant Analysis
-- Emergent Software Design
+- Maker Stuff 🥧 🤖
+- Music Theory
+- My Homelab
+- FinTech
+- Software Design
 - DEVOPS and Cloud Computing
 
 
 🌱 I’m currently learning ...
--
-- Android TV Apps using React Native
-- Android ROM Development
-- NFT centric Dapps on the Polygon chain  
+- React Native
 
 
 📫 How to reach me ...
 - 
-- Teams (8AM-EST-)
+- Teams (0800EST-1600EST)
 - [Email](mailto:g.seemueller@orbisops.com)
