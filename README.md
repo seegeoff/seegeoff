@@ -1,21 +1,19 @@
 ### 👋 Hi, I’m Geoff S. (@seegeoff)
 
-Father, 8y Special Operations Veteran, and Software Engineer with roots in Java, Typescript, Go, and Python.
+Fullstack Engineer. Roots in Java, NodeJS, Go, and Python.
 
 👀 I’m interested in:
--
+- Big data
 - Maker Stuff 🥧 🤖
 - Music Theory
-- My Homelab
-- FinTech
-- Software Design
-- DEVOPS and Cloud Computing
+- Homelabbing
+- Quant
+- Design Patterns
 
 
 🌱 I’m currently learning ...
-- React Native
-- Cloudflare Workers
-- FeathersJS
+- WebTransport
+- Authzed
 
 
 📫 How to reach me ...
